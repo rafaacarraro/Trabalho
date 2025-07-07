@@ -23,7 +23,8 @@ header {
   width: 200px;
   border-radius: 15px;
   margin-bottom: 20px;
-  align-self: flex-start;
+  align-self: center;
+
 }
 
 .barra-pesquisa {
